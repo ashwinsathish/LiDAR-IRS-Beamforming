@@ -59,8 +59,3 @@ Our implementation demonstrates:
 1. A. Alkhateeb et al., "[DeepSense 6G: A Large-Scale Real-World Multi-Modal Sensing and Communication Dataset](https://doi.org/10.1109/MCOM.006.2200730)," *IEEE Communications Magazine*, vol. 61, no. 9, pp. 122-128, Sept. 2023.
 
 2. D. Dampahalage, S. K. Badalge, N. Rajatheva and M. Latva-aho, "[Intelligent Reflecting Surface Aided Vehicular Communications](https://doi.org/10.1109/GCWkshps50303.2020.9367569)," *2020 IEEE Globecom Workshops*, pp. 1-6, 2020.
-
-
-
-Department of Electrical and Electronics Engineering  
-Birla Institute of Technology & Science Pilani, India
