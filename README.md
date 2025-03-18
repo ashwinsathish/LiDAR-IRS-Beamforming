@@ -54,12 +54,6 @@ Our implementation demonstrates:
 - 10.5% average improvement in achievable rates across all UE positions
 - Enhanced performance of 16×16 IRS arrays with 2×2 grouping compared to 8×8 full CSI configurations
 
-## References
-
-1. A. Alkhateeb et al., "[DeepSense 6G: A Large-Scale Real-World Multi-Modal Sensing and Communication Dataset](https://doi.org/10.1109/MCOM.006.2200730)," *IEEE Communications Magazine*, vol. 61, no. 9, pp. 122-128, Sept. 2023.
-
-2. D. Dampahalage, S. K. Badalge, N. Rajatheva and M. Latva-aho, "[Intelligent Reflecting Surface Aided Vehicular Communications](https://doi.org/10.1109/GCWkshps50303.2020.9367569)," *2020 IEEE Globecom Workshops*, pp. 1-6, 2020.
-
 ## Citation
 
 A. S. Kumar and S. Joshi, "LiDAR-Enabled Spatial Awareness for Beamforming in IRS-Assisted Wireless Communication System," *2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)*, Guwahati, India, 2024, pp. 1-6, doi: [10.1109/ANTS63515.2024.10898544](https://doi.org/10.1109/ANTS63515.2024.10898544).
