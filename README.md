@@ -15,15 +15,10 @@ Modern wireless networks face significant challenges in maintaining reliable con
 
 ## System Architecture
 
-The system consists of the following components:
-
 - **Base Station**: 4×2 antenna array configuration
 - **IRS**: 256-element array with configurable grouping strategies
 - **LiDAR**: Co-located with IRS, providing real-time environmental sensing
 - **Vehicle (UE)**: Mobile user equipment with dynamic positioning
-
-### Technical Specifications
-
 - **LiDAR Parameters**:
   - Scanning range: 16 meters
   - Frequency: 10Hz
