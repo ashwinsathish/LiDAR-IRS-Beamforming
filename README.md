@@ -1,10 +1,10 @@
 # LiDAR-Enabled Spatial Awareness for IRS-Assisted Wireless Communication
 
-This repository contains the implementation of a LiDAR-enabled spatial awareness system for beamforming in Intelligent Reflecting Surface (IRS) assisted wireless communication networks. Focuses on enhancing vehicular communications through real-time environmental awareness and optimized beamforming strategies.
+This repository contains an implementation of the paper - 'LiDAR-Enabled Spatial Awareness for Beamforming in IRS-Assisted Wireless Communication System'. 
 
 ## Project Overview
 
-Modern wireless networks face significant challenges in maintaining reliable connectivity in dynamic urban environments, particularly in vehicular networks with high mobility. We introduce a novel approach that combines LiDAR technology with IRS-assisted communication systems to provide robust and efficient wireless connectivity.
+Modern wireless networks face significant challenges in maintaining reliable connectivity in dynamic urban environments, particularly in vehicular networks with high mobility. We introduce a novel approach that combines LiDAR technology with IRS-assisted communication systems to provide robust and efficient wireless connectivity. This focuses on enhancing vehicular communications through real-time environmental awareness and optimized beamforming strategies.
 
 ### Key Features
 
