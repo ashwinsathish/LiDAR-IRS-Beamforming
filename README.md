@@ -17,12 +17,8 @@ Modern wireless networks face significant challenges in maintaining reliable con
 
 - **Base Station**: 4×2 antenna array configuration
 - **IRS**: 256-element array with configurable grouping strategies
-- **LiDAR**: Co-located with IRS, providing real-time environmental sensing
+- **LiDAR**: Co-located with IRS, providing real-time environmental sensing (data obtained from DeepSense6G) 
 - **Vehicle (UE)**: Mobile user equipment with dynamic positioning
-- **LiDAR Parameters**:
-  - Scanning range: 16 meters
-  - Frequency: 10Hz
-  - Resolution: 111ms between scans
 
 ## Implementation Details
 
